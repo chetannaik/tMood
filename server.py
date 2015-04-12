@@ -8,10 +8,10 @@ app = Flask(__name__)
 
 
 def get_twitter_api():
-    CONSUMER_KEY = 'EVbMP5yaafvqj4n7DtaHGR7Zi'
-    CONSUMER_SECRET = 'Z80Kp0ZT6kWYHsRhUyhtt8kiMPTyZLjwzm3aQeVu7wcwE60DKg'
-    OAUTH_TOKEN = '45792879-lqNsyWIf1A4RVaHhZrLjftTi7gofIEhPdBVSJ4WmE'
-    OAUTH_TOKEN_SECRET = '122Jv9SFewHkM9oTwZtC5vdfYYftbm91i1bEilIiMDbee'
+    CONSUMER_KEY = 'ADD'
+    CONSUMER_SECRET = 'ADD'
+    OAUTH_TOKEN = 'ADD'
+    OAUTH_TOKEN_SECRET = 'ADD'
 
     twitter_api = twitter.Api(consumer_key=CONSUMER_KEY,
                               consumer_secret=CONSUMER_SECRET,
